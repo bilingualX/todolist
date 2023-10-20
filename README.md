@@ -1,6 +1,6 @@
 # todo-list-REACTJS/Vite
  
-- Nesse projeto, pude colocar em prática:
+ # Nesse projeto, pude colocar em prática:
 
 - Hooks useState / useEffect
 - Conceito de props
