@@ -1,10 +1,10 @@
-☑️ Mastering ReactJS/Vite with a Todo List App ☑️
+📚 Mastering ReactJS/Vite with a Todo List App 📚
 
 Welcome to my ReactJS/Vite work! 
 
 🚀 In this project, I've put theory into practice and created an interactive and dynamic Todo List application.
 
-📚 What I've Applied:
+💪 What I've Applied:
 
 ☑️ useState/useEffect: I've mastered the useState and useEffect hooks for managing state and side effects in my application.
 
