@@ -6,13 +6,13 @@ Welcome to my ReactJS/Vite work!
 
 📚 What I've Applied:
 
-useState/useEffect: I've mastered the useState and useEffect hooks for managing state and side effects in my application.
+☑️ useState/useEffect: I've mastered the useState and useEffect hooks for managing state and side effects in my application.
 
-Props: I've dived into the concept of props to pass data and functionality between components.
+☑️ Props: I've dived into the concept of props to pass data and functionality between components.
 
-Componentization: I've learned how to create modular and reusable components, enhancing the structure and maintainability of my project.
+☑️ Componentization: I've learned how to create modular and reusable components, enhancing the structure and maintainability of my project.
 
-Function Sharing: I've honed my skills in importing and exporting functions to streamline my codebase.
+☑️ Function Sharing: I've honed my skills in importing and exporting functions to streamline my codebase.
 
 This project has been a pivotal journey, allowing me to solidify my understanding of ReactJS/Vite and create a fully functional Todo List.
 
